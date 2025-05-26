@@ -1,13 +1,10 @@
 <h1 align="center">Hey there! 👋 I'm Md. Raihanul Islam Rafi</h1>
 <h3 align="center">✨ Flutter Enthusiast | Transforming ideas into seamless, beautiful experiences 🚀</h3>
+<br><br>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=raihanrafi01&label=Profile%20views&color=0e75b6&style=flat" alt="raihanrafi01" />
-</p>
-<br><br>
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=raihanrafi01&label=Profile%20views&color=0e75b6&style=flat" alt="raihanrafi01" />
-    <br>
+    <br><br>
     <a href="https://raihanrafi.netlify.app/" target="_blank" rel="noreferrer">🌐 Visit My Website</a>
 </p>
 
